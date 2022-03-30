@@ -10,6 +10,8 @@
 - 🥅 2022 Goals: Lauch a web3 project and start creating content
 - ⚡ Fun fact: I am gym rat
 
+<br />
+
 ### Connect with me:
 
 [![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCroQv9R2NsVkCp5WP-iZg1Q#gh-light-mode-only)
