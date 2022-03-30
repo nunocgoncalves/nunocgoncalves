@@ -4,8 +4,8 @@
 
 ## I'm a Web and Blockchain Developer!!
 
-- 🔭 I am currently working on a Dapp: [Delta][Delta]!
-- 🌱 I’m currently learning Solidity, Javascript and Kubernetes
+- 🔭 Currently working on a Dapp: [Delta][Delta]!
+- 🌱 Learning Solidity, Javascript and Kubernetes
 - 👯 I’m looking to connect and colaborate with people to learn as much as possible 
 - 🥅 2022 Goals: Lauch a web3 project and start creating content
 - ⚡ Fun fact: I am gym rat
