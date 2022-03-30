@@ -24,6 +24,8 @@
 [![website](./img/instagram-light.svg)](https://instagram.com/nunomiguelcg#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/nunomiguelcg#gh-dark-mode-only)
 
+<br />
+
 ### Languages and Tools:
 
 [<img align="left" alt="Solidity" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-plain.svg" style="padding-right:10px;" />][youtube]
@@ -51,6 +53,8 @@
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCroQv9R2NsVkCp5WP-iZg1Q)
 
+<br />
+
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
@@ -65,6 +69,8 @@
   <img align="left" alt="nunocgoncalves's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nunocgoncalves&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 </details>
+
+<br />
 
 📌 **Address: 0xdB75a62b27D8F2EdBa9119F741bd317139b55dcE**
 
