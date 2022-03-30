@@ -10,24 +10,6 @@
 - 🥅 2022 Goals: Lauch a web3 project and start creating content
 - ⚡ Fun fact: I am gym rat
 
-<br />
-
-### Connect with me:
-
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCroQv9R2NsVkCp5WP-iZg1Q#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCroQv9R2NsVkCp5WP-iZg1Q#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/nunomiguelcg#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/nunomiguelcg#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/nunomgoncalves#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/nunomgoncalves#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/nunomiguelcg#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/nunomiguelcg#gh-dark-mode-only)
-
-<br />
-
 ### Languages and Tools:
 
 [<img align="left" alt="Solidity" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-plain.svg" style="padding-right:10px;" />][youtube]
@@ -75,6 +57,22 @@
 <br />
 
 📌 **Address: 0xdB75a62b27D8F2EdBa9119F741bd317139b55dcE**
+
+<br />
+
+### Connect with me:
+
+[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCroQv9R2NsVkCp5WP-iZg1Q#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCroQv9R2NsVkCp5WP-iZg1Q#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/nunomiguelcg#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/nunomiguelcg#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/nunomgoncalves#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/nunomgoncalves#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/nunomiguelcg#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/nunomiguelcg#gh-dark-mode-only)
 
 [github]: https://github.com/nunocgoncalves
 [twitter]: https://twitter.com/nunomiguelcg
