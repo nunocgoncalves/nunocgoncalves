@@ -2,13 +2,13 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/nunomiguelcg?style=for-the-badge)
 
-## I'm a Web and Blockchain Developer!!
+## I am a Founder at [Mercury Labs](https://github.com/Mercury-Labs-DAO), the Lead Developer at [Pizza Wallet](https://github.com/Pizza-Wallet-Development-team) and a Web3 Enthusiast
 
-- 🔭 Currently working on a Dapp: [Delta][Delta]!
-- 🌱 Learning Solidity, Javascript and Kubernetes
-- 👯 I’m looking to connect and colaborate with people to learn as much as possible 
-- 🥅 2022 Goals: Lauch a web3 project and start creating content
-- ⚡ Fun fact: I am gym rat
+- 🔭 I am currently developing a Wallet -> [Pizza Wallet](https://github.com/Pizza-Wallet-Development-team/pizza-wallet) and a DAO -> [Mercury Labs DAO](https://github.com/Mercury-Labs-DAO/mercury-dao)
+- 🌱 Learning React, Solidity and Kubernetes
+- 👯 I’m looking to connect and colaborate with people and learn as much as possible 
+- 🥅 2022 Goals: Launch a web3 project and start creating content
+- ⚡ Fun fact: I am a gym rat
 
 ### Languages and Tools:
 
@@ -29,11 +29,7 @@
 <br />
 <br />
 
----
-📌 **Address: 0xdB75a62b27D8F2EdBa9119F741bd317139b55dcE**
-
 ### Connect with me:
-
 [![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCroQv9R2NsVkCp5WP-iZg1Q#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCroQv9R2NsVkCp5WP-iZg1Q#gh-dark-mode-only)
 &nbsp;&nbsp;
@@ -43,33 +39,22 @@
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/nunomgoncalves#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/nunomgoncalves#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/nunomiguelcg#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/nunomiguelcg#gh-dark-mode-only)
 
 ### 📺 Latest YouTube Videos
 
 <!--YOUTUBE:START - Don't forget to comment-->
+[Shardeum - gm web3 #3 with Nischal](https://www.youtube.com/watch?v=cuU2JKz25m8&t)
 <!--YOUTUBE:END - Don't forget to comment-->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCroQv9R2NsVkCp5WP-iZg1Q)
 
 <br />
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+# 📊 My Stats
 
-</details>
+[![Nuno's github stats](https://github-readme-stats.vercel.app/api?username=nunocgoncalves&show_icons=true&count_private=true&theme=radical&hide=stars)](https://github.com/nunocgoncalves)
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="nunocgoncalves's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nunocgoncalves&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-</details>
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nunocgoncalves&theme=dark&count_private=true&theme=radical)](https://github.com/nunocgoncalves)
 
 [github-dark]: https://github.com/nunocgoncalves#gh-dark-mode-only
 [github-light]: https://github.com/nunocgoncalves#gh-light-mode-only
