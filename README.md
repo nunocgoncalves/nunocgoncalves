@@ -1,13 +1,11 @@
 # Hi there, I'm Nuno👋
 
-![Twitter Follow](https://img.shields.io/twitter/follow/nunomiguelcg?style=for-the-badge)
-
-## I am a Founder at [Mercury Labs](https://github.com/Mercury-Labs-DAO), the Lead Developer at [Pizza Wallet](https://github.com/Pizza-Wallet-Development-team) and a Web3 Enthusiast
+## I am a Founder at [Mercury Labs](https://github.com/Mercury-Labs-DAO), the Lead Developer at [Pizza Wallet](https://github.com/Pizza-Wallet-Development-team) and a Web3 Enthusiast!
 
 - 🔭 I am currently developing a Wallet -> [Pizza Wallet](https://github.com/Pizza-Wallet-Development-team/pizza-wallet) and a DAO -> [Mercury Labs DAO](https://github.com/Mercury-Labs-DAO/mercury-dao)
 - 🌱 Learning React, Solidity and Kubernetes
 - 👯 I’m looking to connect and colaborate with people and learn as much as possible 
-- 🥅 2022 Goals: Launch a web3 project and start creating content
+- 🥅 2022 Goals: Launch a full stack web3 project and start creating content
 - ⚡ Fun fact: I am a gym rat
 
 ### Languages and Tools:
