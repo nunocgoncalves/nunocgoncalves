@@ -25,9 +25,6 @@
 <br />
 
 ### Connect with me:
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCroQv9R2NsVkCp5WP-iZg1Q#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCroQv9R2NsVkCp5WP-iZg1Q#gh-dark-mode-only)
-&nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/nunomiguelcg#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/nunomiguelcg#gh-dark-mode-only)
 &nbsp;&nbsp;
