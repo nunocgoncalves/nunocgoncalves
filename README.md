@@ -23,6 +23,9 @@
 
 <br />
 <br />
+<br />
+
+[![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nunocgoncalves&theme=algolia)](https://github.com/nunocgoncalves)
 
 ### Connect with me:
 [![website](./img/twitter-light.svg)](https://twitter.com/nunomiguelcg#gh-light-mode-only)
@@ -44,14 +47,13 @@
 
 # 📊 My Stats
 
-[![Nuno's github stats](https://github-readme-stats.vercel.app/api?username=nunocgoncalves&show_icons=true&count_private=true&theme=radical&hide=stars)](https://github.com/nunocgoncalves)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nunocgoncalves&theme=dark&count_private=true&theme=radical)](https://github.com/nunocgoncalves)
-
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nunocgoncalves&show_icons=true&count_private=true&theme=algolia&hide=stars)](https://github.com/nunocgoncalves)
+<br />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nunocgoncalves&theme=algolia)](https://github.com/nunocgoncalves)
+  
 [github-dark]: https://github.com/nunocgoncalves#gh-dark-mode-only
 [github-light]: https://github.com/nunocgoncalves#gh-light-mode-only
 [twitter]: https://twitter.com/nunomiguelcg
 [youtube]: https://www.youtube.com/channel/UCroQv9R2NsVkCp5WP-iZg1Q
 [instagram]: https://instagram.com/nunomiguelcg
 [linkedin]: https://linkedin.com/in/nunomgoncalves
-[Delta]: https://github.com/nunomigueldev/delta-name-service
