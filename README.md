@@ -2,7 +2,7 @@
 
 ## I am a Founder at [Mercury Labs](https://github.com/Mercury-Labs-DAO), the Lead Developer at [Pizza Wallet](https://github.com/Pizza-Wallet-Development-team) and a Web3 Enthusiast!
 
-- 🔭 I am currently developing a Wallet -> [Pizza Wallet](https://github.com/Pizza-Wallet-Development-team/pizza-wallet) and a DAO -> [Mercury Labs DAO](https://github.com/Mercury-Labs-DAO/mercury-dao)
+- 🔭 I am currently developing a Wallet -> [Pizza Wallet](https://github.com/Pizza-Wallet-Development-team/pizza-wallet)
 - 🌱 Learning React, Solidity and Kubernetes
 - 👯 I’m looking to connect and colaborate with people and learn as much as possible 
 - 🥅 2022 Goals: Launch a full stack web3 project and start creating content
