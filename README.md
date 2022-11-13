@@ -1,11 +1,11 @@
 # Hi there, I'm Nuno👋
 
-## I am a Founder at [Mercury Labs](https://github.com/Mercury-Labs-DAO), the Lead Developer at [Pizza Wallet](https://github.com/Pizza-Wallet-Development-team) and a Web3 Enthusiast!
+## I am a Web3 Builder, the Lead Developer at [Pizza Wallet](https://github.com/Pizza-Wallet-Development-team) and a Cryptography and ZK Enthusiast!
 
 - 🔭 I am currently developing a Wallet -> [Pizza Wallet](https://github.com/Pizza-Wallet-Development-team/pizza-wallet)
-- 🌱 Learning React, web3.js and Kubernetes
+- 🌱 Learning Cryptography and ZKs
 - 👯 I’m looking to connect and colaborate with people to learn as much as possible 
-- 🥅 2022 Goals: Launch a full stack web3 project and start creating content
+- 🥅 2022 Goals: Learn, code and learn some more
 - ⚡ Fun fact: I am a gym rat
 
 ### Languages and Tools:
