@@ -1,6 +1,6 @@
 # Hi there, I'm Nuno👋
 
-## I am a Web3 Builder, the Lead Developer at [Pizza Wallet](https://github.com/Pizza-Wallet-Development-team) and a Cryptography and ZK Enthusiast!
+## I am a Web3 Builder, the CTO at [Pizza Wallet](https://github.com/Pizza-Wallet-Development-team) and a Cryptography and ZK Enthusiast!
 
 - 🔭 I am currently developing a Wallet -> [Pizza Wallet](https://github.com/Pizza-Wallet-Development-team/pizza-wallet)
 - 🌱 Learning Cryptography and ZKs
