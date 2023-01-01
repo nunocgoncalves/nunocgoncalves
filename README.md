@@ -1,12 +1,12 @@
 # Hi there, I'm Nuno👋
 
-## I am a Web3 Builder, the CTO at [Pizza Wallet](https://github.com/Pizza-Wallet-Development-team) and a Cryptography and ZK Enthusiast!
+## I am a Blockchain Engineer, the CTO at [Pizza wallet](https://github.com/Pizza-Wallet-Development-team) and a Cryptography and ZK Enthusiast!
 
-- 🔭 I am currently developing a Wallet -> [Pizza Wallet](https://github.com/Pizza-Wallet-Development-team/pizza-wallet)
-- 🌱 Learning Cryptography and ZKs
-- 👯 I’m looking to connect and colaborate with people to learn as much as possible 
-- 🥅 2022 Goals: Learn, code and learn some more
-- ⚡ Fun fact: I am a gym rat
+- 🔭 I am currently developing a wallet -> [Pizza wallet](https://github.com/Pizza-Wallet-Development-team/pizza-wallet)
+- 🌱 Learning Typescript and ZKs 
+- 👯 I’m looking to connect and colaborate with people to share and learn as much as possible
+- 🥅 2023 Goals: Keep learning, code daily and document my journey
+- ⚡ Fun fact: I lift weights and do kickboxing
 
 ### Languages and Tools:
 
