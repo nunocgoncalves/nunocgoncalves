@@ -18,7 +18,7 @@
 ### 📺 Latest YouTube Videos
 
 <!--YOUTUBE:START - Don't forget to comment-->
-[Shardeum - gm web3 #3 with Nischal](https://www.youtube.com/watch?v=cuU2JKz25m8&t)
+[zkThon 2023 Challenge 3 Walkthrough](https://www.youtube.com/watch?v=i0i5w5NjLkY&t)
 <!--YOUTUBE:END - Don't forget to comment-->
 
-➡️ [more videos...](https://www.youtube.com/channel/UCroQv9R2NsVkCp5WP-iZg1Q)
+➡️ [more videos...](https://www.youtube.com/@nunomiguelcg)
