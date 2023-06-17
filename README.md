@@ -1,4 +1,4 @@
-# Hi there, I'm Nuno👋
+# Hi there, I'm Nuno 👋
 
 ## I am a Co-Founder & CTO at [Pizza wallet](https://www.pizzawallet.io/) and a cryptography and ZK enthusiast!
 
