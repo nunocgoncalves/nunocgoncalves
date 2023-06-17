@@ -1,31 +1,11 @@
 # Hi there, I'm Nuno👋
 
-## I am a Blockchain Engineer, the CTO at [Pizza wallet](https://github.com/Pizza-Wallet-Development-team) and a Cryptography and ZK Enthusiast!
+## I am a Co-Founder & CTO at [Pizza wallet](https://www.pizzawallet.io/) and a cryptography and ZK enthusiast!
 
-- 🔭 I am currently developing a wallet -> [Pizza wallet](https://github.com/Pizza-Wallet-Development-team/pizza-wallet)
-- 🌱 Learning Typescript and ZKs 
-- 👯 I’m looking to connect and colaborate with people to share and learn as much as possible
+- 🔭 I am currently building [the web3 loyalty program for independent pizzerias](https://github.com/Pizza-wallet)
+- 🌱 Mastering the EVM and Learning ZKs 
 - 🥅 2023 Goals: Keep learning, code daily and document my journey
-- ⚡ Fun fact: I lift weights and do kickboxing
-
-### Languages and Tools:
-
-[<img align="left" alt="Solidity" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-plain.svg" style="padding-right:10px;" />][youtube]
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][youtube]
-[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />][youtube]
-[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][youtube]
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][youtube]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][youtube]
-[<img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" style="padding-right:10px;" />][youtube]
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][youtube]
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />][github-dark]
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />][github-light]
-
-<br />
-<br />
-<br />
-
-[![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nunocgoncalves&theme=algolia)](https://github.com/nunocgoncalves)
+- ⚡ Fun fact: I do kickboxing and lift weights
 
 ### Connect with me:
 [![website](./img/twitter-light.svg)](https://twitter.com/nunomiguelcg#gh-light-mode-only)
@@ -42,18 +22,3 @@
 <!--YOUTUBE:END - Don't forget to comment-->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCroQv9R2NsVkCp5WP-iZg1Q)
-
-<br />
-
-# 📊 My Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nunocgoncalves&show_icons=true&count_private=true&theme=algolia&hide=stars)](https://github.com/nunocgoncalves)
-<br />
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nunocgoncalves&theme=algolia)](https://github.com/nunocgoncalves)
-  
-[github-dark]: https://github.com/nunocgoncalves#gh-dark-mode-only
-[github-light]: https://github.com/nunocgoncalves#gh-light-mode-only
-[twitter]: https://twitter.com/nunomiguelcg
-[youtube]: https://www.youtube.com/channel/UCroQv9R2NsVkCp5WP-iZg1Q
-[instagram]: https://instagram.com/nunomiguelcg
-[linkedin]: https://linkedin.com/in/nunomgoncalves
