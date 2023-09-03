@@ -1,6 +1,6 @@
 # Hi there, I'm Nuno 👋
 
-> I am a **Solutions Architect** and my mission is to help technological advancement by **bridging vision to tech**.
+> I am a Solutions Architect and my mission is to help businesses and projects bridge vision to technology.
 
 - 🔭 I am currently working on [the web3 loyalty program for independent pizzerias](https://github.com/Pizza-wallet)
 - 🌱 Mastering AWS
