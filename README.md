@@ -1,11 +1,9 @@
 # Hi there, I'm Nuno 👋
 
-> I am a Solutions Architect and my mission is to help businesses and projects bridge vision to technology.
-
-- 🔭 I am currently working on [the web3 loyalty program for independent pizzerias](https://github.com/Pizza-wallet)
-- 🌱 Mastering AWS
+- 🔭 I am currently working on [Coreflux's Platform](https://coreflux.org)
+- 🌱 Mastering K8s
 - 🥅 2023 Goals: Make my second brain open source
-- ⚡ Fun fact: I do kickboxing and lift weights
+- ⚡ Fun fact: I do kickboxing
 
 #### Connect with me:
 [![website](./img/twitter-light.svg)](https://twitter.com/nunomiguelcg#gh-light-mode-only)
