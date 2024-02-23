@@ -1,6 +1,6 @@
-# hi, I'm Nuno 👋
+# hi, I'm nuno 👋
 
-- 🔭 I am currently working on [Coreflux's Cloud Platform](https://mqtt.coreflux.org)
+- 🔭 I am currently working as the Cloud Tech Lead at [Coreflux](https://mqtt.coreflux.org) where I am building the [Coreflux Cloud Platform](https://mqtt.coreflux.org)
 - 🌱 Mastering K8s
 - 🥅 2024 Goals: Make my second brain open source
 
