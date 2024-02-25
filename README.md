@@ -1,5 +1,7 @@
 # hi, I'm nuno 👋
 
+[![wakatime](https://wakatime.com/badge/user/018ddd69-b309-44d7-8898-1aee16f98ff0.svg)](https://wakatime.com/@018ddd69-b309-44d7-8898-1aee16f98ff0)
+
 - 🔭 I am currently working as the Cloud Tech Lead at [Coreflux](https://mqtt.coreflux.org) where I am building the [Coreflux Cloud Platform](https://mqtt.coreflux.org)
 - 🌱 Mastering K8s
 - 🥅 2024 Goals: Make my second brain open source
