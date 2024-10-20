@@ -2,9 +2,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/018ddd69-b309-44d7-8898-1aee16f98ff0.svg)](https://wakatime.com/@018ddd69-b309-44d7-8898-1aee16f98ff0)
 
-- 🔭 I am currently working as a Tech Lead at [Coreflux](https://coreflux.org) where I am building the [Coreflux IoT Platform](https://mqtt.coreflux.org)
-- 🌱 Mastering K8s
-- 🥅 2024 Goals: Make my second brain open source
+- I am currently building IoT's Platform at [Coreflux](https://coreflux.org)
 
 #### Connect with me:
 [![website](./img/twitter-light.svg)](https://twitter.com/nunomiguelcg#gh-light-mode-only)
