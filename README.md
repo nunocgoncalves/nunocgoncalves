@@ -2,7 +2,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/018ddd69-b309-44d7-8898-1aee16f98ff0.svg)](https://wakatime.com/@018ddd69-b309-44d7-8898-1aee16f98ff0)
 
-- I am currently building [LOADING]...
+- I am currently building the future of the Open Economy at [Scroll](https://scroll.io)
 
 #### Connect with me:
 [![website](./img/twitter-light.svg)](https://twitter.com/nunomiguelcg#gh-light-mode-only)
